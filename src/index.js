@@ -4,6 +4,7 @@ import Dashboard from "./pages/Dashboard";
 import Vendas from "./pages/Vendas";
 import VendasListadas from "./pages/VendasListadas";
 import Estoque from "./pages/Estoque";
+import App from './App';
 
 // Toastify
 import { ToastContainer } from "react-toastify";
